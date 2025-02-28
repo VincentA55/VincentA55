@@ -1,10 +1,12 @@
 
 
-![VincentA55](https://github-readme-stats.vercel.app/api?username=vincenta55&show_icons=true&theme=dark)
+![VincentA55's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VincentA55&show_icons=true&theme=dark&count_private=true)
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentA55&layout=compact&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentA55&layout=compact&theme=dark&hide=jupyter%20notebook)
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincentA55&theme=dark)
