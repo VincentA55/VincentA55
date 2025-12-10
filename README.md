@@ -6,7 +6,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentA55&layout=compact&theme=dark&hide=jupyter%20notebook)
 
-
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentA55)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VincentA55&theme=dark)
 
